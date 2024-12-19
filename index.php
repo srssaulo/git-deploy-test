@@ -29,7 +29,7 @@
   <!-- Header -->
   <header class="masthead d-flex">
     <div class="container text-center my-auto">
-      <h1 class="mb-1">PHP via CapRover (Alteração - access token)...Teste</h1>
+      <h1 class="mb-1">PHP via CapRover (Alteração - access token). Testando </h1>
       <h3 class="mb-5">
         <em>Free and Open Source PaaS</em>
       </h3>
